@@ -1,0 +1,13 @@
+{
+	"name": "codeup/init-composer",
+	"description": "CodeUP init composer packagist",
+	"keywords": ["codeup", "framework"],
+	"homepage": "http://www.codeup.id/",
+	"authors": [
+		{
+			"name": "Upik Saleh",
+			"email": "upxsal@gmail.com",
+			"role": "Founder and project lead"
+		},
+	]
+}
